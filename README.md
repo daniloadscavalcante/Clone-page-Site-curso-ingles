@@ -3,7 +3,9 @@
 
 ###  :open_book:  Sobre o projeto
 
- O projeto é uma landing page, foi desenvolvido para colocar em prática os conhecimentos obtidos através de cursos.
+ O projeto é um Clone de uma landing page, foi desenvolvido para colocar em prática os conhecimentos obtidos através de cursos. 
+ 
+link da pagina ORIGINAL: https://www.agoraeufaloacademy.com/serie-gratuita
 
 
 ### Layout Devices :iphone:
